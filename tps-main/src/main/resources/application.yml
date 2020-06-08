@@ -1,0 +1,3 @@
+server:
+  port: 9898
+url: http://10.20.222.191:8070/modelInfo/similarityQuery
